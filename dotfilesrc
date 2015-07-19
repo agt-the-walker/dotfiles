@@ -1,0 +1,4 @@
+[dotfiles]
+repository = ~/src/git/dotfiles
+ignore = ['.git', '.gitignore', '*.swp', 'LICENSE']
+packages = ['config', 'urlwatch']

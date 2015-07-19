@@ -1,0 +1,23 @@
+# subtitle
+ass=1
+embeddedfonts=1
+fontconfig=1
+
+### Agt settings
+
+# audio
+ao=alsa
+alang=jp,jpn,Japanese,en,eng,English,fr,fra
+
+# subtitle
+slang=jp,jpn,Japanese,en,eng,English,fr,fra
+
+# output
+fs=yes
+heartbeat-cmd="xscreensaver-command -deactivate >&- 2>&- &"
+xineramascreen=1
+
+# performance
+cache=2097152
+va=vaapi
+vo=vaapi
