@@ -1,6 +1,7 @@
 |curl -s http://salsaydulzura.ch/
 http://brainking.com/en/Profile?u=78167&p=2
 http://salsaddictos.ch/agenda/
+http://www.archlinux.org/packages/community/x86_64/mpv/
 http://www.kdanse.ch/bulle/manifs.htm
 http://www.kdanse.ch/lausanne/cfm/events.cfm?cat=1
 http://www.kdanse.ch/lausanne/cfm/events.cfm?cat=14
