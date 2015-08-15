@@ -1,3 +1,4 @@
+alias d='cd ~/src/git/dotfiles'
 alias g='gvim'
 alias j='cd ~/src/git/jp-utils'
 alias jy='evince -p 11 ~/data/Texts\ -\ Japanese/jouyoukanjihyou_h22.pdf &'
