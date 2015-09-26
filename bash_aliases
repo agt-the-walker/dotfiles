@@ -7,7 +7,7 @@ alias r='rtk-anki'
 alias re='perl-rename'
 alias s='(cd ~/opt/Shogidokoro; mono Shogidokoro.exe)'
 alias t='tune-anki'
-alias u='parallel ::: simyo urlwatch; pacaur -Syu'
+alias u="parallel ::: simyo 'urlwatch -q'; pacaur -Syu"
 
 alias su0='svn update --set-depth=empty'
 alias su1='svn update --set-depth=immediates'
