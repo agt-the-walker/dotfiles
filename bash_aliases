@@ -1,11 +1,13 @@
 alias d='cd ~/src/git/dotfiles'
 alias g='gvim'
+alias gi='cd ~/src/git'
 alias j='cd ~/src/git/jp-utils'
 alias jy='evince -p 11 ~/data/Texts\ -\ Japanese/jouyoukanjihyou_h22.pdf &'
 alias m='missing-anki'
 alias r='rtk-anki'
 alias re='perl-rename'
-alias s='(cd ~/opt/Shogidokoro; mono Shogidokoro.exe)'
+alias s='cd ~/src/svn'
+alias sd='(cd ~/opt/Shogidokoro; mono Shogidokoro.exe)'
 alias t='tune-anki'
 alias u="parallel ::: simyo 'urlwatch -q'; pacaur -Syu"
 
