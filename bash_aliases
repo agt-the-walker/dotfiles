@@ -10,7 +10,6 @@ alias re='perl-rename'
 alias s='cd ~/src/svn'
 alias sd='(cd ~/opt/Shogidokoro; mono Shogidokoro.exe)'
 alias t='tune-anki'
-alias u="parallel ::: simyo 'urlwatch -q'; pacaur -Syu"
 
 alias su0='svn update --set-depth=empty'
 alias su1='svn update --set-depth=immediates'
