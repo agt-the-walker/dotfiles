@@ -15,3 +15,6 @@ call vundle#end()            " required
 filetype plugin indent on    " required
 
 syntax on
+
+" CtrlP configuration
+let g:ctrlp_user_command = ['.git', 'cd %s && git ls-files -co --exclude-standard']
