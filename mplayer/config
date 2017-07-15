@@ -6,7 +6,6 @@ fontconfig=1
 ### Agt settings
 
 # audio
-ao=alsa
 alang=jp,jpn,Japanese,en,eng,English,fr,fra
 
 # subtitle
