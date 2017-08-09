@@ -1,3 +1,3 @@
 [[ -f ~/.bashrc ]] && . ~/.bashrc
 
-export PATH=~/src/git/jp-utils:~/src/agt/misc-utils:$PATH
+export PATH=~/src/agt/jp-utils:~/src/agt/misc-utils:$PATH
