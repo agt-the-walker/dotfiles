@@ -13,7 +13,7 @@ export JAPANESE_TOOLS=~/src/git/Japanese-Tools
 . ~/.bash_aliases
 
 # inspired from /usr/share/doc/pkgfile/command-not-found.bash and
-#  ~/src/git/jp-utils/lib/command-not-found
+#  ~/src/agt/jp-utils/lib/command-not-found
 command_not_found_handle () {
   local pkgs cmd=$1
   if [[ "$cmd" = [[:ascii:]]* ]]; then
