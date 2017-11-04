@@ -30,3 +30,7 @@ command_not_found_handle () {
     jm "$cmd"
   fi
 }
+
+gcp() {
+    git commit "$@" && git push
+}
