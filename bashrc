@@ -34,3 +34,7 @@ command_not_found_handle () {
 gcp() {
     git commit "$@" && git push
 }
+
+#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
+export SDKMAN_DIR="/home/agt/.sdkman"
+[[ -s "/home/agt/.sdkman/bin/sdkman-init.sh" ]] && source "/home/agt/.sdkman/bin/sdkman-init.sh"
