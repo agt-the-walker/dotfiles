@@ -1,2 +1,2 @@
 set guioptions=a
-set guifont=DejaVu\ Sans\ Mono\ 9
+set guifont=Monospace\ 10
