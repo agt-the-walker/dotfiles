@@ -1,2 +1,2 @@
 set guioptions=a
-set guifont=Monospace\ 10
+set guifont=Monospace\ 11
