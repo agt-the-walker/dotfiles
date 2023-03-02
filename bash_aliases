@@ -22,3 +22,5 @@ alias rtk="$JAPANESE_TOOLS/rtk/rtk.sh"
 alias sen="$JAPANESE_TOOLS/yahoo_jisho/daijisen.sh"
 alias rin="$JAPANESE_TOOLS/yahoo_jisho/daijirin.sh"
 alias gd="$JAPANESE_TOOLS/google_dictionary/gd.sh"
+
+alias grep='grep --color=auto'
