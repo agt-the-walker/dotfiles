@@ -7,7 +7,7 @@ shopt -s checkwinsize
 
 export CHROME_BIN=google-chrome-stable
 export EDITOR=vim
-export HISTSIZE=100000
+export HISTSIZE=200000
 export JAPANESE_TOOLS=~/src/git/Japanese-Tools
 
 . ~/.bash_aliases
